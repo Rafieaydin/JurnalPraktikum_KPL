@@ -1,0 +1,15 @@
+D:\init\Moduls\Modul4_1302220065\TPMOD04\TPMOD04\obj\Debug\net8.0\TPMOD04.GeneratedMSBuildEditorConfig.editorconfig
+D:\init\Moduls\Modul4_1302220065\TPMOD04\TPMOD04\obj\Debug\net8.0\TPMOD04.AssemblyInfoInputs.cache
+D:\init\Moduls\Modul4_1302220065\TPMOD04\TPMOD04\obj\Debug\net8.0\TPMOD04.AssemblyInfo.cs
+D:\init\Moduls\Modul4_1302220065\TPMOD04\TPMOD04\obj\Debug\net8.0\TPMOD04.csproj.CoreCompileInputs.cache
+D:\init\Moduls\Modul4_1302220065\TPMOD04\TPMOD04\obj\Debug\net8.0\TPMOD04.sourcelink.json
+D:\init\Moduls\Modul4_1302220065\TPMOD04\TPMOD04\bin\Debug\net8.0\TPMOD04.exe
+D:\init\Moduls\Modul4_1302220065\TPMOD04\TPMOD04\bin\Debug\net8.0\TPMOD04.deps.json
+D:\init\Moduls\Modul4_1302220065\TPMOD04\TPMOD04\bin\Debug\net8.0\TPMOD04.runtimeconfig.json
+D:\init\Moduls\Modul4_1302220065\TPMOD04\TPMOD04\bin\Debug\net8.0\TPMOD04.dll
+D:\init\Moduls\Modul4_1302220065\TPMOD04\TPMOD04\bin\Debug\net8.0\TPMOD04.pdb
+D:\init\Moduls\Modul4_1302220065\TPMOD04\TPMOD04\obj\Debug\net8.0\TPMOD04.dll
+D:\init\Moduls\Modul4_1302220065\TPMOD04\TPMOD04\obj\Debug\net8.0\refint\TPMOD04.dll
+D:\init\Moduls\Modul4_1302220065\TPMOD04\TPMOD04\obj\Debug\net8.0\TPMOD04.pdb
+D:\init\Moduls\Modul4_1302220065\TPMOD04\TPMOD04\obj\Debug\net8.0\TPMOD04.genruntimeconfig.cache
+D:\init\Moduls\Modul4_1302220065\TPMOD04\TPMOD04\obj\Debug\net8.0\ref\TPMOD04.dll
