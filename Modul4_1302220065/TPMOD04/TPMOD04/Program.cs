@@ -1,12 +1,14 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using TPMOD04.kodebuah;
+using TPMOD04.game;
 namespace Program;
 
 class Program {
     
     public static void Main(String[] args)
     {
+        Console.WriteLine("Soal no 1 :");
       Console.WriteLine("Nama \t Kode");
       Console.WriteLine(KodeBuah.namaBuah.Apel +"\t"+ KodeBuah.GetKodeBuah(KodeBuah.namaBuah.Apel));
       Console.WriteLine(KodeBuah.namaBuah.Aprikot + "\t" + KodeBuah.GetKodeBuah(KodeBuah.namaBuah.Aprikot));
@@ -18,5 +20,7 @@ class Program {
       Console.WriteLine(KodeBuah.namaBuah.Kelapa + "\t" + KodeBuah.GetKodeBuah(KodeBuah.namaBuah.Kelapa));
       Console.WriteLine(KodeBuah.namaBuah.Jagung + "\t" + KodeBuah.GetKodeBuah(KodeBuah.namaBuah.Jagung));
 
+      Console.WriteLine("Soal no 2 : ");
+      PosisiKarakterGame.run();
     }
 }
